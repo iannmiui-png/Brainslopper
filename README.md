@@ -88,4 +88,4 @@ This project is AI-generated slop, hence the name. It appears to work, but no wa
 
 ## License
 
-MIT
+cc0
