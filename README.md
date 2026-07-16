@@ -1,4 +1,4 @@
-# Brainslopper ðŸ§ ðŸŽ¨
+# Brainslopper
 
 An AI-generated [Brainloller](https://esolangs.org/wiki/Brainloller) encoder, decoder, and interpreter in a single Python file.
 
